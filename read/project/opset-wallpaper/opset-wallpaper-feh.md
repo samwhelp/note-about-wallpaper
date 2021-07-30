@@ -22,3 +22,8 @@ grand_parent: 專案
 ## 其他專案
 
 * [wallpaper-select-feh](https://samwhelp.github.io/note-about-fzf/read/project/wallpaper-select/wallpaper-select-feh.html)
+
+
+## 相關筆記
+
+* manjaro 探索筆記 / [feh](https://samwhelp.github.io/note-about-manjaro/read/adjustment/tool/feh.html)
