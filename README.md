@@ -4,6 +4,11 @@
 * [note-about-wallpaper](https://samwhelp.github.io/note-about-wallpaper/) ([GitHub](https://github.com/samwhelp/note-about-wallpaper))
 
 
+## 相關筆記
+
+* [fzf 探索筆記](https://samwhelp.github.io/note-about-fzf/)
+
+
 ## samwhelp
 
 * [個人筆記](https://samwhelp.github.io/book/)
@@ -11,15 +16,8 @@
 
 ## 主題
 
-* [入門](#入門)
+
 * [專案](#專案)
-
-
-### 入門
-
-| 議題 |
-| --- |
-| [入門](https://samwhelp.github.io/note-about-wallpaper/read/start.html) |
 
 
 ### 專案
@@ -29,9 +27,9 @@
 
 | 工具 | 簡介 |
 | --- | --- |
-| [wallpaper-select-feh](https://samwhelp.github.io/https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-feh.html) | 採用「feh」，輔助「檔案管理器」，用來「設定」Wallpaper |
-| [wallpaper-select-hsetroot](https://samwhelp.github.io/https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-hsetroot.html) | 採用「hsetroot」，輔助「檔案管理器」，用來「設定」Wallpaper |
-| [wallpaper-select-xwallpaper](https://samwhelp.github.io/https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-xwallpaper.html) | 採用「xwallpaper」，輔助「檔案管理器」，用來「設定」Wallpaper |
+| [wallpaper-select-feh](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-feh.html) | 採用「feh」，輔助「檔案管理器」，用來「設定」Wallpaper |
+| [wallpaper-select-hsetroot](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-hsetroot.html) | 採用「hsetroot」，輔助「檔案管理器」，用來「設定」Wallpaper |
+| [wallpaper-select-xwallpaper](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-xwallpaper.html) | 採用「xwallpaper」，輔助「檔案管理器」，用來「設定」Wallpaper |
 
 
 #### wallpaper-select
