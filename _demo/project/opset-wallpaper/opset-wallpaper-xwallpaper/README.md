@@ -1,10 +1,10 @@
 
-# opset-wallpaper-hsetroot
+# opset-wallpaper-xwallpaper
 
 
 ## Agent
 
-* [hsetroot](https://hsetroot.finalrewind.org/) ([GitHub](https://github.com/derf/hsetroot)
+* [xwallpaper](https://github.com/stoeckmann/xwallpaper)
 
 
 
@@ -15,8 +15,8 @@
 make install
 ```
 
-* [opset-wallpaper-hsetroot](opset-wallpaper-hsetroot)
-* [opset-wallpaper-hsetroot.desktop](opset-wallpaper-hsetroot.desktop)
+* [opset-wallpaper-xwallpaper](opset-wallpaper-xwallpaper)
+* [opset-wallpaper-xwallpaper.desktop](opset-wallpaper-xwallpaper.desktop)
 
 ## Remove
 
@@ -30,12 +30,12 @@ make remove
 
 1. Launch FileManager. For example: `thunar`
 2. Specific Image File
-3. Open With opset-wallpaper-hsetroot to set wallpaper
+3. Open With opset-wallpaper-xwallpaper to set wallpaper
 
 ### On xfce4-terminal
 
 1. Launch `xfce4-terminal`
-2. Run `opset-wallpaper-hsetroot image_file`
+2. Run `opset-wallpaper-xwallpaper image_file`
 
 
 ## See Also

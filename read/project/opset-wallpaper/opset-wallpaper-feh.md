@@ -16,7 +16,7 @@ grand_parent: 專案
 
 ## 採用工具
 
-* [feh](https://feh.finalrewind.org/) ([GitHub](https://github.com/derf/feh)
+* [feh](https://feh.finalrewind.org/) ([GitHub](https://github.com/derf/feh))
 
 
 ## 其他專案

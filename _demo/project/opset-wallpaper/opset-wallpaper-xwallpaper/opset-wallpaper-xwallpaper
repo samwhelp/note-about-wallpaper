@@ -17,9 +17,9 @@ util_error_echo () {
 	echo "$@" 1>&2
 }
 
-opset_wallpaper_hsetroot_main () {
+opset_wallpaper_xwallpaper_main () {
 
-	local agent='hsetroot -full'
+	local agent='xwallpaper --maximize'
 	local target_path="$1"
 	local file_path
 	local file_name
@@ -84,4 +84,4 @@ opset_wallpaper_hsetroot_main () {
 
 }
 
-opset_wallpaper_hsetroot_main "$@"
+opset_wallpaper_xwallpaper_main "$@"

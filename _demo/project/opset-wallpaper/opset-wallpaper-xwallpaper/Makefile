@@ -15,11 +15,11 @@ help:
 
 
 install:
-	sudo install -Dm755 ./opset-wallpaper-hsetroot /usr/local/bin/opset-wallpaper-hsetroot
-	sudo install -Dm644 ./opset-wallpaper-hsetroot.desktop /usr/share/applications/opset-wallpaper-hsetroot.desktop
+	sudo install -Dm755 ./opset-wallpaper-xwallpaper /usr/local/bin/opset-wallpaper-xwallpaper
+	sudo install -Dm644 ./opset-wallpaper-xwallpaper.desktop /usr/share/applications/opset-wallpaper-xwallpaper.desktop
 .PHONY: install
 
 remove:
-	sudo rm -f /usr/local/bin/opset-wallpaper-hsetroot
-	sudo rm -f /usr/share/applications/opset-wallpaper-hsetroot.desktop
+	sudo rm -f /usr/local/bin/opset-wallpaper-xwallpaper
+	sudo rm -f /usr/share/applications/opset-wallpaper-xwallpaper.desktop
 .PHONY: remove

@@ -4,7 +4,7 @@
 
 ## Agent
 
-* [hsetroot](https://hsetroot.finalrewind.org/) ([GitHub](https://github.com/derf/hsetroot)
+* [hsetroot](https://github.com/himdel/hsetroot)
 
 
 

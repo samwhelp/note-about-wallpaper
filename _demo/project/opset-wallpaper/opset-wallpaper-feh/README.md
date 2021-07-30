@@ -4,9 +4,7 @@
 
 ## Agent
 
-* [feh](https://feh.finalrewind.org/) ([GitHub](https://github.com/derf/feh)
-
-
+* [feh](https://feh.finalrewind.org/) ([GitHub](https://github.com/derf/feh))
 
 
 ## Install
