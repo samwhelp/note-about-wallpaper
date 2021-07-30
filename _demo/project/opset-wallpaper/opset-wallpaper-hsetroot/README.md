@@ -30,7 +30,7 @@ make remove
 
 1. Launch FileManager. For example: `thunar`
 2. Specific Image File
-3. Open With opset-wallpaper-hsetroot to set wallpaper
+3. Open With `opset-wallpaper-hsetroot` to set wallpaper
 
 ### On xfce4-terminal
 
