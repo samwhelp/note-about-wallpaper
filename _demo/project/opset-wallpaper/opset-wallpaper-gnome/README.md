@@ -20,6 +20,8 @@ make install
 
 * [opset-wallpaper-gnome](opset-wallpaper-gnome)
 * [opset-wallpaper-gnome.desktop](opset-wallpaper-gnome.desktop)
+* [opset-screensaver-background-gnome](opset-screensaver-background-gnome)
+* [opset-screensaver-background-gnome.desktop](opset-screensaver-background-gnome.desktop)
 
 ## Remove
 
