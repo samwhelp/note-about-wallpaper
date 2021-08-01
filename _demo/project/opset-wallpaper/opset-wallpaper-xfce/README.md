@@ -11,7 +11,7 @@
 
 ## Agent
 
-* [xfconf-query](https://xfce.finalrewind.org/) ([GitHub](https://github.com/derf/xfce))
+* [xfconf-query](https://docs.xfce.org/xfce/xfconf/xfconf-query)
 
 
 ## Install
@@ -35,12 +35,12 @@ make remove
 
 1. Launch FileManager. For example: `thunar`
 2. Specific Image File
-3. Open With `opset-wallpaper-hsetroot` to set wallpaper
+3. Open With `opset-wallpaper-xfce` to set wallpaper
 
 ### On xfce4-terminal
 
 1. Launch `xfce4-terminal`
-2. Run `opset-wallpaper-hsetroot image_file`
+2. Run `opset-wallpaper-xfce image_file`
 
 
 ## See Also
