@@ -1,12 +1,12 @@
 [Desktop Entry]
-Name=Set Wallpaper By feh
+Name=Set Wallpaper For Xfce
 GenericName=Set Wallpaper
 GenericName[de]=Set Wallpaper
-Comment=Set Wallpaper By feh
+Comment=Set Wallpaper For Xfce
 Comment[zh_CN]=設定桌面圖片
 Comment[zh_TW]=設定桌面圖片
-TryExec=opset-wallpaper-feh
-Exec=opset-wallpaper-feh %F
+TryExec=opset-wallpaper-xfce
+Exec=opset-wallpaper-xfce %F
 Terminal=false
 Type=Application
 Keywords=Graphics;wallpaper;

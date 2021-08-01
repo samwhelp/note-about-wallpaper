@@ -2,11 +2,14 @@
 # opset-wallpaper-xwallpaper
 
 
+## Reference
+
+* https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html
+
+
 ## Agent
 
 * [xwallpaper](https://github.com/stoeckmann/xwallpaper)
-
-
 
 
 ## Install

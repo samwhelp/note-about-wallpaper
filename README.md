@@ -31,6 +31,10 @@
 | [opset-wallpaper-hsetroot](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-hsetroot.html) | 採用「hsetroot」，輔助「檔案管理器」，用來「設定」Wallpaper |
 | [opset-wallpaper-xwallpaper](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-xwallpaper.html) | 採用「xwallpaper」，輔助「檔案管理器」，用來「設定」Wallpaper |
 
+| 工具 | 簡介 |
+| --- | --- |
+| [opset-wallpaper-xfce](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-xwallpaper.html) | xfdesktop (xfce) 專用，採用「xfconf-query」，輔助「檔案管理器」，用來「設定」Wallpaper |
+
 
 #### wallpaper-select
 

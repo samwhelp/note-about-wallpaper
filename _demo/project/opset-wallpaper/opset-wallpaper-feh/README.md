@@ -2,6 +2,11 @@
 # opset-wallpaper-feh
 
 
+## Reference
+
+* https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html
+
+
 ## Agent
 
 * [feh](https://feh.finalrewind.org/) ([GitHub](https://github.com/derf/feh))

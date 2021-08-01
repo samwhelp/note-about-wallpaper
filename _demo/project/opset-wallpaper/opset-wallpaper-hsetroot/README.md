@@ -2,11 +2,14 @@
 # opset-wallpaper-hsetroot
 
 
+## Reference
+
+* https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html
+
+
 ## Agent
 
 * [hsetroot](https://github.com/himdel/hsetroot)
-
-
 
 
 ## Install
