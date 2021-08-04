@@ -5,9 +5,7 @@
 ## Reference
 
 * https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-latest.html
-* https://github.com/archcraft-os/archcraft-lxqt-pkgs/blob/main/lxqt-styles/src/styles/Forest.sh
-* https://stackoverflow.com/questions/34268791/how-to-change-the-desktop-wallpaper-on-linux-from-within-a-shell-bash-script
-* https://github.com/yatsenko-ihor/himawari8-wallaper/blob/master/himawari8_wallaper.sh
+
 
 ## Agent
 
