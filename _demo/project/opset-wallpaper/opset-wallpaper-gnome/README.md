@@ -9,7 +9,7 @@
 
 ## Agent
 
-* [gsettings](http://manpages.ubuntu.com/manpages/focal/man1/gsettings.1.html)
+* [gsettings](https://man.archlinux.org/man/gsettings.1)
 
 
 ## Install
