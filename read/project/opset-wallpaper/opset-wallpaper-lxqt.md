@@ -16,7 +16,7 @@ grand_parent: 專案
 
 ## 採用工具
 
-* [gsettings](http://manpages.ubuntu.com/manpages/focal/man1/gsettings.1.html)
+* [pcmanfm-qt](https://man.archlinux.org/man/community/pcmanfm-qt/pcmanfm-qt.1.en)
 
 
 ## 其他專案
