@@ -7,7 +7,7 @@
 ## 相關筆記
 
 * [fzf 探索筆記](https://samwhelp.github.io/note-about-fzf/)
-
+* [xfteditor 開發筆記](https://samwhelp.github.io/tool-xfteditor/)
 
 ## samwhelp
 
