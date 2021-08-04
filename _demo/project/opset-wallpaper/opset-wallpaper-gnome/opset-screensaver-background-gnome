@@ -58,7 +58,7 @@ opset_screensaver_background_gnome_main () {
 		return 1
 	fi
 
-	file_path="$(realpath "$target_path")"
+	file_path="$(realpath -s "$target_path")"
 
 	if [ -d "$file_path" ]; then
 
