@@ -9,5 +9,5 @@ has_children: true
 
 | 專案 |
 | --- |
-| [opset-wallpaper](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/)|
-| [wallpaper-select](https://samwhelp.github.io/note-about-fzf/read/project/wallpaper-select/)|
+| [opset-wallpaper](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/) |
+| [wallpaper-select](https://samwhelp.github.io/note-about-fzf/read/project/wallpaper-select/) |

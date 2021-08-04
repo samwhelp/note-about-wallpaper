@@ -23,7 +23,8 @@
 ### 專案
 
 
-#### opset-wallpaper
+* [opset-wallpaper](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/)
+
 
 | 工具 | 簡介 |
 | --- | --- |
@@ -38,7 +39,8 @@
 | [opset-wallpaper-lxqt](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-lxqt.html) | pcmanfm-qt (lxqt) 專用，採用「pcmanfm-qt」，輔助「檔案管理器」，用來「設定」Wallpaper |
 
 
-#### wallpaper-select
+* [wallpaper-select](https://samwhelp.github.io/note-about-fzf/read/project/wallpaper-select/)
+
 
 | 工具 | 指令 | 簡介 |
 | --- | --- | --- |
