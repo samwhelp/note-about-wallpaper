@@ -27,3 +27,4 @@ parent: 專案
 | [opset-wallpaper-xfce](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-xfce.html) | xfdesktop (xfce) 專用，採用「xfconf-query」，輔助「檔案管理器」，用來「設定」Wallpaper |
 | [opset-wallpaper-gnome](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-gnome.html) | gnome 專用，採用「gsettings」，輔助「檔案管理器」，用來「設定」Wallpaper |
 | [opset-wallpaper-lxqt](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-lxqt.html) | pcmanfm-qt (lxqt) 專用，採用「pcmanfm-qt」，輔助「檔案管理器」，用來「設定」Wallpaper |
+| [opset-wallpaper-kde](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-kde.html) | kde 專用，採用「qdbus」，輔助「檔案管理器」，用來「設定」Wallpaper |

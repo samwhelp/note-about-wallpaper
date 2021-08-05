@@ -17,12 +17,12 @@ help:
 .PHONY: help
 
 
-install: install-opset-wallpaper-feh install-opset-wallpaper-hsetroot install-opset-wallpaper-xwallpaper install-opset-wallpaper-xfce install-opset-wallpaper-gnome install-opset-wallpaper-lxqt
+install: install-opset-wallpaper-feh install-opset-wallpaper-hsetroot install-opset-wallpaper-xwallpaper install-opset-wallpaper-xfce install-opset-wallpaper-gnome install-opset-wallpaper-lxqt install-opset-wallpaper-kde
 
 .PHONY: install
 
 
-remove: remove-opset-wallpaper-feh remove-opset-wallpaper-hsetroot remove-opset-wallpaper-xwallpaper remove-opset-wallpaper-xfce remove-opset-wallpaper-gnome remove-opset-wallpaper-lxqt
+remove: remove-opset-wallpaper-feh remove-opset-wallpaper-hsetroot remove-opset-wallpaper-xwallpaper remove-opset-wallpaper-xfce remove-opset-wallpaper-gnome remove-opset-wallpaper-lxqt remove-opset-wallpaper-kde
 
 .PHONY: remove
 
@@ -79,3 +79,12 @@ install-opset-wallpaper-lxqt:
 remove-opset-wallpaper-lxqt:
 	make -C opset-wallpaper-lxqt remove
 .PHONY: remove-opset-wallpaper-lxqt
+
+
+install-opset-wallpaper-kde:
+	make -C opset-wallpaper-kde install
+.PHONY: install-opset-wallpaper-kde
+
+remove-opset-wallpaper-kde:
+	make -C opset-wallpaper-kde remove
+.PHONY: remove-opset-wallpaper-kde

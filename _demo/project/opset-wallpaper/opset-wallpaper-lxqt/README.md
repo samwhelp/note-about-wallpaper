@@ -35,9 +35,9 @@ make remove
 2. Specific Image File
 3. Open With `opset-wallpaper-lxqt` to set wallpaper
 
-### On lxqt4-terminal
+### On xfce4-terminal
 
-1. Launch `lxqt4-terminal`
+1. Launch `xfce4-terminal`
 2. Run `opset-wallpaper-lxqt image_file`
 
 

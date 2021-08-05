@@ -17,7 +17,7 @@ util_error_echo () {
 	echo "$@" 1>&2
 }
 
-sys_gnome_set_screensaver_background () {
+sys_gnome_screensaver_background_set () {
 
 	local file_path="$1"
 
@@ -31,7 +31,7 @@ sys_gnome_set_screensaver_background () {
 
 opset_screensaver_background_gnome_main () {
 
-	local agent='sys_gnome_set_screensaver_background'
+	local agent='sys_gnome_screensaver_background_set'
 	local target_path="$1"
 	local file_path
 	local file_name
