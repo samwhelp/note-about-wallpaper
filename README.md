@@ -38,6 +38,7 @@
 | [opset-wallpaper-gnome](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-gnome.html) | gnome 專用，採用「gsettings」，輔助「檔案管理器」，用來「設定」Wallpaper |
 | [opset-wallpaper-lxqt](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-lxqt.html) | pcmanfm-qt (lxqt) 專用，採用「pcmanfm-qt」，輔助「檔案管理器」，用來「設定」Wallpaper |
 | [opset-wallpaper-kde](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-kde.html) | kde 專用，採用「qdbus」，輔助「檔案管理器」，用來「設定」Wallpaper |
+| [opset-wallpaper-mate](https://samwhelp.github.io/note-about-wallpaper/read/project/opset-wallpaper/opset-wallpaper-mate.html) | mate 專用，採用「gsettings」，輔助「檔案管理器」，用來「設定」Wallpaper |
 
 
 * [wallpaper-select](https://samwhelp.github.io/note-about-fzf/read/project/wallpaper-select/)
