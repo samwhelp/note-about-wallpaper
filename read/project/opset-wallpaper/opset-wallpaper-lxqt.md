@@ -11,7 +11,7 @@ grand_parent: 專案
 
 ## 專案連結
 
-* [opset-wallpaper-lxqt](https://github.com/samwhelp/note-about-wallpaper/tree/gh-pages/_demo/project/opset-wallpaper/opset-wallpaper-lxqt)
+* [opset-wallpaper-lxqt](https://github.com/samwhelp/note-about-wallpaper/tree/gh-pages/_demo/prototype/opset-wallpaper/opset-wallpaper-lxqt)
 
 
 ## 採用工具

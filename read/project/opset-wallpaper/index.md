@@ -10,7 +10,7 @@ parent: 專案
 
 ## 專案連結
 
-* [opset-wallpaper](https://github.com/samwhelp/note-about-wallpaper/tree/gh-pages/_demo/project/opset-wallpaper)
+* [opset-wallpaper](https://github.com/samwhelp/note-about-wallpaper/tree/gh-pages/_demo/prototype/opset-wallpaper)
 
 
 ## 工具
