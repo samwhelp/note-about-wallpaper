@@ -8,6 +8,12 @@
 
 * [fzf 探索筆記](https://samwhelp.github.io/note-about-fzf/)
 * [xfteditor 開發筆記](https://samwhelp.github.io/tool-xfteditor/)
+* [Theme 探索筆記](https://samwhelp.github.io/note-about-theme/)
+
+## 相關收藏
+
+* [theme-collections-wallpaper](https://github.com/samwhelp/theme-collections-wallpaper)
+
 
 ## samwhelp
 
