@@ -18,6 +18,7 @@ has_children: true
 * [feh](https://feh.finalrewind.org/) ([GitHub](https://github.com/derf/feh))
 * [hsetroot](https://github.com/himdel/hsetroot)
 * [xwallpaper](https://github.com/stoeckmann/xwallpaper)
+* [variety](https://github.com/varietywalls/variety)
 
 
 
