@@ -21,7 +21,7 @@
 | ---- |
 | demo-create-debian-package / [wallpaper-collection](https://github.com/samwhelp/demo-create-debian-package/tree/main/demo/wallpaper-collection) |
 | deb-recipe / [cook-wallpaper-collection](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-wallpaper-collection/cook-wallpaper-collection) |
-| deb-coffee / [bean-wallpaper-collection.pacscript](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-wallpaper-collection/bean-wallpaper-collection.pacscript) |
+| deb-coffee / [bean-wallpaper-collection](https://github.com/samwhelp/deb-coffee/tree/main/packages/bean-wallpaper-collection) |
 
 
 
