@@ -4,15 +4,33 @@
 * [note-about-wallpaper](https://samwhelp.github.io/note-about-wallpaper/) ([GitHub](https://github.com/samwhelp/note-about-wallpaper))
 
 
+
+
 ## 相關筆記
 
 * [fzf 探索筆記](https://samwhelp.github.io/note-about-fzf/)
 * [xfteditor 開發筆記](https://samwhelp.github.io/tool-xfteditor/)
 * [Theme 探索筆記](https://samwhelp.github.io/note-about-theme/)
 
+
+
+
+## Packaging
+
+| Demo |
+| ---- |
+| demo-create-debian-package / [wallpaper-collection](https://github.com/samwhelp/demo-create-debian-package/tree/main/demo/wallpaper-collection) |
+| deb-recipe / [cook-wallpaper-collection](https://github.com/samwhelp/deb-recipe/tree/main/recipe/cook-wallpaper-collection/cook-wallpaper-collection) |
+| deb-coffee / [bean-wallpaper-collection.pacscript](https://github.com/samwhelp/deb-coffee/blob/main/packages/bean-wallpaper-collection/bean-wallpaper-collection.pacscript) |
+
+
+
+
 ## 相關收藏
 
 * [theme-collections-wallpaper](https://github.com/samwhelp/theme-collections-wallpaper)
+
+
 
 
 ## samwhelp
